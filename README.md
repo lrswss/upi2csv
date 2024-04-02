@@ -16,7 +16,7 @@ used by TomTom.
 
 Usage: `upi2csv.py <upi-file-to-convert> <2-letter-country-code>`  
 
-CSV output format: `lontitude,latitude,location,comment`
+CSV output format: `longitude,latitude,location,comment`
 
 The 2-letter code is used as a prefix for the location field in the CSV 
 file to make it easier to sort the file by country. The file `ADAC.upi`
